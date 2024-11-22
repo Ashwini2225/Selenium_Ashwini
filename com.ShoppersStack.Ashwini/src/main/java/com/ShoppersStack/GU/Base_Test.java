@@ -74,7 +74,7 @@ public class Base_Test {
 		String Browsername = fileutility.readPropertyData("Browsername");
 		String url = fileutility.readPropertyData("url");
 		
-		
+		 
 		//https://www.shoppersstack.com/
 //		 String url = System.getProperty("url");
 //		String Browsername = System.getProperty("Browsername");
